@@ -1,0 +1,2 @@
+serviceClass: org.drools.guvnor.client.rpc.CategoryService
+path: 0C5F7E041C27A0F5CCFB19F11F0EADEA.gwt.rpc

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/costingdpas/!svn/ver/733/patch-prix/trunk/guvnor-distribution-dpas/src/main/assembly
+END
+filter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/costingdpas/!svn/ver/733/patch-prix/trunk/guvnor-distribution-dpas/src/main/assembly/filter.properties
+END
+components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/costingdpas/!svn/ver/733/patch-prix/trunk/guvnor-distribution-dpas/src/main/assembly/components.xml
+END
+assembly-guvnor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/costingdpas/!svn/ver/733/patch-prix/trunk/guvnor-distribution-dpas/src/main/assembly/assembly-guvnor.xml
+END

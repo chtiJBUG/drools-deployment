@@ -1,0 +1,2 @@
+serviceClass: org.drools.guvnor.client.rpc.RepositoryService
+path: B3BEF6239C78A93841A387F34AEEF352.gwt.rpc

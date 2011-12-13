@@ -1,0 +1,2 @@
+serviceClass: org.drools.guvnor.client.rpc.VerificationService
+path: 998BFF64E238ED38B01C8609325D8DBF.gwt.rpc

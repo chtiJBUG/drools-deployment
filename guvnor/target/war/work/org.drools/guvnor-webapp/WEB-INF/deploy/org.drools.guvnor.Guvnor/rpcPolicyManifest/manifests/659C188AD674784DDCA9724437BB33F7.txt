@@ -1,0 +1,2 @@
+serviceClass: org.drools.guvnor.client.rpc.StandaloneEditorService
+path: 2164A8321F0DAAB092C5811B5E825539.gwt.rpc
